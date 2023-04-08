@@ -1,6 +1,7 @@
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Deepak jangir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2Unk97gJBLiwuXlT-maj9r&ust=1681022469504000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjc-urWmf4CFQAAAAAdAAAAABAE">
+<!-- <img align="right" alt="Coding" width="400" src=""C:\Users\deepa\Downloads\1.jpg""> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakjangir1&label=Profile%20views&color=0e75b6&style=flat" alt="deepakjangir1" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
