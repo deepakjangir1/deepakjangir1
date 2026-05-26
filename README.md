@@ -10,7 +10,14 @@
 - 📫 Reach me at **deepakjangra614@gmail.com**
 
 ### 🔗 Connect with me
-[LinkedIn](https://linkedin.com/in/deepakjangir568) · [LeetCode](https://leetcode.com/u/deepak_jangra)
+<p align="left">
+  <a href="https://linkedin.com/in/deepakjangir568" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/deepak_jangra" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ### 🛠️ Languages and Tools
 <p align="left">
