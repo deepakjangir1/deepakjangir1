@@ -1,14 +1,14 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Deepak jangir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack Developer (MERN) | MTech CSE @ NIT Calicut</h3>
 <!-- <img align="right" alt="Coding" width="400" src=""C:\Users\deepa\Downloads\1.jpg""> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakjangir1&label=Profile%20views&color=0e75b6&style=flat" alt="deepakjangir1" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **C,C++, Data Structures, OOPS, HTML, CSS, JS, BOOTSTRAP**
-
-- 📫 How to reach me **deepakjangra614@gmail.com**
+- 🎓 Pursuing MTech in Computer Science & Engineering at **NIT Calicut** (2024–2026)
+- 💻 I build full-stack web applications with **React.js, Node.js, Express.js, and MongoDB**
+- 🧩 Strong in **Data Structures, Algorithms, and OOP** (C++ / Java)
+- 🛠️ Previously an **Associate Oracle IT Consultant** at Egis Edge Technologies
+- 📫 Reach me at **deepakjangra614@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
