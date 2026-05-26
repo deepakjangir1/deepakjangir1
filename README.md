@@ -11,7 +11,7 @@
 - 📫 Reach me at **deepakjangra614@gmail.com**
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/deepakjangir568) · [LeetCode](https://leetcode.com/deepakjangir2528)
+[LinkedIn](https://linkedin.com/in/deepakjangir568) · [LeetCode](https://leetcode.com/u/deepak_jangra)
 
 
 <h3 align="left">Languages and Tools:</h3>
